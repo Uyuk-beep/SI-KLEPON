@@ -1,5 +1,5 @@
 <?php
-// File: d:\xampp\htdocs\Web_SI-KLEPON\admin\navbar_admin.php
+// File: d:\xampp\htdocs\SI-KLEPON\admin\navbar_admin.php
 
 if (!isset($admin) || !is_array($admin)) {
     echo "Navbar error: Data admin tidak ditemukan.";

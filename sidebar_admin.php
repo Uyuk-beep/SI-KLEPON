@@ -1,5 +1,5 @@
 <?php
-// File: d:\xampp\htdocs\Web_SI-KLEPON\admin\sidebar_admin.php
+// File: d:\xampp\htdocs\SI-KLEPON\admin\sidebar_admin.php
 
 if (!isset($admin) || !is_array($admin)) {
     // Fallback jika variabel $admin tidak ada, untuk mencegah error.

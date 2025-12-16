@@ -1,5 +1,5 @@
 <?php
-// File: d:\xampp\htdocs\Web_SI-KLEPON\user\navbar.php
+// File: d:\xampp\htdocs\SI-KLEPON\user\navbar.php
 
 if (!isset($user) || !is_array($user)) {
     echo "Navbar error: Data pengguna tidak ditemukan.";

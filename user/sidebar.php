@@ -1,5 +1,5 @@
 <?php
-// File: d:\xampp\htdocs\Web_SI-KLEPON\user\sidebar.php
+// File: d:\xampp\htdocs\SI-KLEPON\user\sidebar.php
 
 if (!isset($user) || !is_array($user)) {
     // Fallback jika variabel $user tidak ada, untuk mencegah error.

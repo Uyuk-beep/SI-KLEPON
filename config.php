@@ -13,11 +13,11 @@ define('DB_PASS', '');
 define('DB_NAME', 'si_klepon');
 
 // Konfigurasi Aplikasi
-define('BASE_URL', 'http://localhost/Web_SI-KLEPON/');
+define('BASE_URL', 'http://localhost/SI-KLEPON/');
 define('SITE_NAME', 'Kelurahan Kalampangan');
 
 // Konfigurasi Upload
-// UPLOAD_DIR akan menunjuk ke D:\xampp\htdocs\Web_SI-KLEPON Rev\uploads/ (berdasarkan lokasi config.php)
+// UPLOAD_DIR akan menunjuk ke D:\xampp\htdocs\SI-KLEPON Rev\uploads/ (berdasarkan lokasi config.php)
 define('UPLOAD_DIR', __DIR__ . '/uploads/'); 
 define('MAX_FILE_SIZE', 5 * 1024 * 1024); // 5MB
 
