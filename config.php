@@ -13,7 +13,7 @@ define('DB_PASS', '');
 define('DB_NAME', 'si_klepon');
 
 // Konfigurasi Aplikasi
-define('BASE_URL', 'http://localhost/SI-KLEPON/');
+define('BASE_URL', 'http://localhost/SI-KLEPON/index.php');
 define('SITE_NAME', 'Kelurahan Kalampangan');
 
 // Konfigurasi Upload
